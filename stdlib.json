@@ -1,0 +1,14 @@
+{
+  "name": "kevinb/slack-topic",
+  "timeout": 20000,
+  "version": "0.0.1",
+  "description": "",
+  "events": [
+    {
+      "slack.message.channels": {
+        "filename": "functions/events/slack/message/channels.js",
+        "subtype": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kevinb/slack-topic",
+  "author": "kevinb",
+  "dependencies": {
+    "lib": "latest"
+  }
+}
