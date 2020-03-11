@@ -1,6 +1,6 @@
 # Build a Slack Bot to Regulate Channel Topics with Airtable on Standard Library
 
-[<img src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://deploy.stdlib.com/)
+[<img src="https://deploy.stdlib.com/static/images/deploy.svg?" width="192">](https://deploy.stdlib.com/)
 
 Ever want to put an end to unwelcome Slack topic modifications? Take back control of your channels with Slack and Airtable on Standard Library. Just set up your Airtable Base as described below, and click the Deploy button at the top of this README, and you will be able to do just that.
 
@@ -12,7 +12,7 @@ Name your table **Topics**, and populate it with two columns. Name the first col
 ![base image](/readme/images/base.png)
 
 ## Deploy Your App
-[<img src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://deploy.stdlib.com/)
+[<img src="https://deploy.stdlib.com/static/images/deploy.svg?" width="192">](https://deploy.stdlib.com/)
 
 Click on Deploy on Standard Library, and complete linking your resources.
 
